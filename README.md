@@ -11,7 +11,7 @@ This repository contains the Smart Contracts for Yearns V3 vault implementation.
 This repository runs on [ApeWorx](https://www.apeworx.io/). A python based development tool kit.
 
 You will need:
- - Python 3.8 or later
+ - Python 3.8 - 3.10
  - Linux or macOS
  - Windows: Install Windows Subsystem Linux (WSL) with Python 3.8 or later
  - [Hardhat](https://hardhat.org/) installed globally
